@@ -4,7 +4,7 @@ import glfw
 
 def dibujar():
     #rutinas de dibujo
-    glBegin()
+    glBegin(GL_TRIANGLES)
     
     glEnd()
 
